@@ -1,0 +1,7 @@
+import MuxLib:stdio;
+using namespace MuxLib:stdio;
+
+func Main(array string argv)->MInteger{
+	print("This is My first C-Script Program!");
+	return 0;
+}
